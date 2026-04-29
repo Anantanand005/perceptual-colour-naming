@@ -1,7 +1,10 @@
 # Perceptual Colour Naming in CIELAB Space
 
 ## Overview
-This project builds a perceptually grounded machine learning pipeline for mapping continuous colour values in CIELAB space to human colour names.
+
+This project explores how computational systems assign colour names to images, and how these predictions align with human perception.
+
+Unlike traditional classification systems that output a single label, this work models perceptual uncertainty using probabilistic approaches and evaluates alignment using perceptual colour difference (ΔE00) and distributional similarity (Hellinger distance).
 
 ## Problem
 Colour perception is continuous, but language is discrete. This creates ambiguity when assigning colour labels such as “blue”, “green”, or “gold”.
