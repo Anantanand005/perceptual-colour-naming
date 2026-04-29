@@ -30,7 +30,8 @@ Colour perception is continuous, but language is discrete. This creates ambiguit
 
 ![Centroids](figures/centroid_comparison.png)
 
-![Label reduction](figures/lexicon_comparison.png)
+![Label reduction](figures/colour_lexicon.png)
+![Labek reduction](figures/indispensable_lexicon.png)
 
 ## Report
 [Read full dissertation](report/Dissertation.pdf)
