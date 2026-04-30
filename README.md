@@ -1,5 +1,7 @@
 # Perceptual Colour Naming in CIELAB Space
 
+![Centroids](figures/centroid_comparison.png)
+
 ## Overview
 
 This project explores how computational systems assign colour names to images, and how these predictions align with human perception.
@@ -30,8 +32,6 @@ Colour perception is continuous, but language is discrete. This creates ambiguit
 - Regression closer to observed centroids in 17/22 categories
 
 ## Visualisations
-
-![Centroids](figures/centroid_comparison.png)
 
 ![Label reduction](figures/colour_lexicon.png)
 ![Labek reduction](figures/indispensable_lexicon.png)
